@@ -18,3 +18,6 @@ this repository, see https://golang.org/doc/contribute.html.
 The main issue tracker for the time repository is located at
 https://github.com/golang/go/issues. Prefix your issue with "x/website:" in the
 subject line, so it is easy to find.
+
+
+Rettet af GregersP
